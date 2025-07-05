@@ -105,7 +105,7 @@ Cada profissional deve ter uma agenda, porém o coordenador pode criar uma agend
 * Horários (id)
 * Paciente (id)
 
-A partir daqui é necessário uma aplicação para gerar o quadro dinâmico com uma aplicação web com senha baseado no perfil:
+A partir daqui é necessário uma aplicação para gerar uma aplicação web dinâmica com senha baseado no perfil:
 * Coordenação: acesso ao quadro e ao espelho
 * Recepção: acesso ao quadro.
 * Profissionais: acesso a sua propria agenda, de preferencia mobile.
