@@ -105,6 +105,8 @@ Cada profissional deve ter uma agenda, porém o coordenador pode criar uma agend
 * Horários (id)
 * Paciente (id)
 
+> Todos os dados são fictícios e foram gerados por IA.
+
 A partir daqui é necessário uma aplicação para gerar uma aplicação web dinâmica com senha baseado no perfil:
 * Coordenação: acesso ao quadro e ao espelho
 * Recepção: acesso ao quadro.
